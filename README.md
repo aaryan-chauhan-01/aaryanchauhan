@@ -1,2 +1,3 @@
-# aaryanchauhan
-This is my first Git Repository
+# aaryanchauhan-demo
+This is my first Git Repository.
+ Author - Aaryan Chauhan
